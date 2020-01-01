@@ -1,0 +1,6 @@
+C:\Users\jf891\Desktop\C# Cluster\Assignment4\QueryingData\obj\Debug\Queries.csproj.CoreCompileInputs.cache
+C:\Users\jf891\Desktop\C# Cluster\Assignment4\QueryingData\bin\Debug\QueryingData.exe.config
+C:\Users\jf891\Desktop\C# Cluster\Assignment4\QueryingData\bin\Debug\QueryingData.exe
+C:\Users\jf891\Desktop\C# Cluster\Assignment4\QueryingData\bin\Debug\QueryingData.pdb
+C:\Users\jf891\Desktop\C# Cluster\Assignment4\QueryingData\obj\Debug\QueryingData.exe
+C:\Users\jf891\Desktop\C# Cluster\Assignment4\QueryingData\obj\Debug\QueryingData.pdb
